@@ -14,3 +14,4 @@
 	        compile 'com.github.micadalee:CircleImageView:1.0.0'
 	}
 
+![image]{CircleImageView/app/src/main/res/mipmap-xxhdpi/Screenshot.png}
