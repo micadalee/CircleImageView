@@ -9,6 +9,7 @@ allprojects {
 		}
 	}
   
-  dependencies {
-	        compile 'com.github.micadalee:LibraryDemo:1.0'
+  	dependencies {
+	        compile 'com.github.micadalee:CircleImageView:1.0.0'
 	}
+
