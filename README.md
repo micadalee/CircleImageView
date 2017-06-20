@@ -14,4 +14,4 @@
 	        compile 'com.github.micadalee:CircleImageView:1.0.0'
 	}
 
-![image]{https://github.com/micadalee/CircleImageView/blob/master/Screenshot.png}
+![image](https://github.com/micadalee/CircleImageView/blob/master/Screenshot.png)
