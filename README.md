@@ -15,6 +15,7 @@
 	}
 	
 xml使用代码如下:
+
     <com.example.micadalee.library.CircleImageView
        android:id="@+id/image_1"
        android:layout_width="400px"
